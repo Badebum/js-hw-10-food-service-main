@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antony-krava/goit-js-hw-10-food-service.git"
+    "url": "git+https://github.com/Badebum/js-hw-10-food-service-main.git"
   },
   "keywords": [],
-  "author": "Anton Kravchenko <lugagold@gmail.com>",
+  "author": "Andrey",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/antony-krava/goit-js-hw-10-food-service/issues"
+    "url": "https://github.com/Badebum/js-hw-10-food-service-main/issues"
   },
-  "homepage": "https://antony-krava.github.io/goit-js-hw-10-food-service/",
+  "homepage": "https://github.com/Badebum/js-hw-10-food-service-main",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
